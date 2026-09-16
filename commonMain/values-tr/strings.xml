@@ -167,7 +167,7 @@
     <string name="friend_request_error_already_friends">Zaten arkadaşsınız</string>
     <string name="friend_request_error_list_full">Arkadaş listesi dolu</string>
 
-        <!-- Competitive (ranked 1v1) -->
+    <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Rekabetçi</string>
     <string name="competitive_menu">REKABETÇİ</string>
     <string name="competitive_history">Rekabetçi Geçmişi</string>
@@ -302,24 +302,24 @@
     <string name="ad_reward">Reklam Ödülü</string>
 
     <!-- Season Pass -->
-    <string name="season_pass">Sezon Bileti</string>
-    <string name="season_pass_season_number">Sezon %s</string>
-    <string name="january">Ocak</string>
-    <string name="february">Şubat</string>
-    <string name="march">Mart</string>
-    <string name="april">Nisan</string>
-    <string name="may">Mayıs</string>
-    <string name="june">Haziran</string>
-    <string name="july">Temmuz</string>
-    <string name="august">Ağustos</string>
-    <string name="september">Eylül</string>
-    <string name="october">Ekim</string>
-    <string name="november">Kasım</string>
-    <string name="december">Aralık</string>
-    <string name="season_bag_title">Para Çantası</string>
-    <string name="season_bag_entry">Sezon %1$s — %2$s (%3$s)</string>
-    <string name="season_bag_current">Mevcut</string>
-    <string name="season_bag_last">Önceki</string>
+     <string name="season_pass">Sezon Bileti</string>
+     <string name="season_pass_season_number">Sezon %s</string>
+     <string name="january">Ocak</string>
+     <string name="february">Şubat</string>
+     <string name="march">Mart</string>
+     <string name="april">Nisan</string>
+     <string name="may">Mayıs</string>
+     <string name="june">Haziran</string>
+     <string name="july">Temmuz</string>
+     <string name="august">Ağustos</string>
+     <string name="september">Eylül</string>
+     <string name="october">Ekim</string>
+     <string name="november">Kasım</string>
+     <string name="december">Aralık</string>
+     <string name="season_bag_title">Para Çantası</string>
+     <string name="season_bag_entry">Sezon %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">Mevcut</string>
+     <string name="season_bag_last">Önceki</string>
 
      <!-- Season Pass UI labels -->
      <string name="season_pass_tab_daily">GÜNLÜK</string>
@@ -490,7 +490,6 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Profil renk geçişinin kilidi açık değil</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Profil renk geçişi 2 kilidi açık değil</string>
     <string name="profile_color_save_failed">Profil renkleri kaydedilemedi</string>
-    
     <!-- Profile Tags -->
     <string name="developer_tag">Geliştirici</string>
     <string name="code_contribution_tag">Kod Katkısı</string>
@@ -504,7 +503,6 @@
     <string name="alpha_tester">Alfa Testçisi</string>
     <string name="beta_tester">Beta Testçisi</string>
     <string name="discord_staff">Discord Yetkilisi</string>
-    
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Voidstone Gönder</string>
     <string name="send_voidstones_to">%1$s (ID: %2$d) Kullanıcısına Voidstone Gönder</string>
