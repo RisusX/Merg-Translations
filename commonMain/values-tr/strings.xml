@@ -490,6 +490,7 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Profil renk geçişinin kilidi açık değil</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Profil renk geçişi 2 kilidi açık değil</string>
     <string name="profile_color_save_failed">Profil renkleri kaydedilemedi</string>
+    
     <!-- Profile Tags -->
     <string name="developer_tag">Geliştirici</string>
     <string name="code_contribution_tag">Kod Katkısı</string>
@@ -503,6 +504,7 @@
     <string name="alpha_tester">Alfa Testçisi</string>
     <string name="beta_tester">Beta Testçisi</string>
     <string name="discord_staff">Discord Yetkilisi</string>
+    
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Voidstone Gönder</string>
     <string name="send_voidstones_to">%1$s (ID: %2$d) Kullanıcısına Voidstone Gönder</string>
