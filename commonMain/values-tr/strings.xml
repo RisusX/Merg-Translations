@@ -325,12 +325,12 @@
      <string name="season_pass_tab_daily">GÜNLÜK</string>
      <string name="season_pass_tab_weekly">HAFTALIK</string>
      <string name="season_pass_tab_season">SEZON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
-     <string name="season_pass_admin_cd">Admin</string>
+     <string name="season_pass_done">BITTI</string>
+     <string name="season_pass_claim">Iddia</string>
+     <string name="season_pass_admin_cd">Yönetici</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
+     <string name="season_pass_resets_now">Şimdi sıfırlar</string>
+     <string name="season_pass_resets_in_dh">%1$dd %2$dh içinde sıfırlanır</string>
      <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
