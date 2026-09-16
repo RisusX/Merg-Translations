@@ -644,9 +644,6 @@
 
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Liderlik Tablosu Türü</string>
-    <string name="leaderboard_xp_description">Deneyim puanları. Seviye atlamak için gerekli. Oyunda anlamlı herhangi bir eylem yaparak elde edilebilir.</string>
-    <string name="leaderboard_competitive_description">1'e 1 dereceli merdiven. Yalnızca en az 12 rekabetçi maçı tamamlayan oyuncular listelenir.</string>
-    <string name="leaderboard_rating">Sınıf</string>
     <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
     <string name="leaderboard_type_ap">AP</string>
     <string name="leaderboard_ap_description">AP, short for Achievement Points. Obtain these special points by completing achievements! Higher tier achievements give more AP than others.</string>
@@ -658,8 +655,8 @@
     <string name="leaderboard_period_all_time">Tüm Zamanlar</string>
     <string name="leaderboard_score">Skor</string>
     <string name="leaderboard_rank">Sıralama</string>
-    <string name="leaderboard_empty">Henüz giriş yok</string>
-    <string name="leaderboard_load_error">Liderlik tablosu yüklenemedi</string>
+    <string name="leaderboard_empty">No entries yet</string>
+    <string name="leaderboard_load_error">Failed to load leaderboard</string>
 
     <!-- Statistics !-->
     <string name="all">Tümü</string>
