@@ -66,7 +66,7 @@
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
-    <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
+    <string name="leaderboard_size">Número de puestos en Ranking</string>
     <string name="sound_effects">Efectos de Sonido</string>
     <string name="sound_volume">Volumen del Sonido</string>
     <string name="show_grid">Cuadrícula</string>
@@ -91,7 +91,7 @@
     <string name="name_scale">Escala del Nombre</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
     <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
-    <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
+    <string name="verbose_in_game_ui">Indicadores de Juego</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
     <string name="extrapolation">Extrapolación</string>
     <string name="no_interpolation">Sin interpolación</string>
@@ -124,11 +124,11 @@
     <string name="relax">Relax</string>
     <string name="warning_no_holes">No se Guardarán Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">Portales</string>
     <string name="starting_difficulty">Dificultad Inicial</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">PARTIDA RÁPIDA</string>
+    <string name="play_online">PARTIDA PÚBLICA</string>
     <string name="switch_server">Cambiar Región</string>
     <string name="x_players">%s jugadores</string>
     <string name="x_player">%s jugador</string>
@@ -153,13 +153,13 @@
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
     <string name="send_friend_request_by_id_or_name">Enviar con ID o Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
-    <string name="remove_friend">Eliminar Amigo</string>
+    <string name="remove_friend">Eliminar Amigo(a)</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
-    <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo?</string>
+    <string name="remove_friend_title">Eliminar Amigo(a)</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo(a)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
@@ -213,29 +213,29 @@
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
-    <string name="redeem_code">Código Canjeado</string>
+    <string name="redeem_code">Código Promocional</string>
     <!-- Boosters -->
-    <string name="boosters">Potenciadores</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="boosters">Mejoras</string>
+    <string name="booster_permanent_upgrades">Mejoras Permanentes</string>
+    <string name="booster_owned">nivel: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
+    <string name="none">N/A</string>
+    <string name="booster_ad_xp_title">Multip. EXP por Anuncio</string>
+    <string name="booster_ad_xp_desc">Mira un anuncio para obtener un potenciador de EXP temporal!</string>
+    <string name="booster_stacks_base_xp">Acumula EXP Base</string>
+    <string name="booster_watch_ad">Mirar Anuncio</string>
+    <string name="booster_choose_boost">Elige tu potenciador de EXP</string>
+    <string name="booster_active">activo</string>
     <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_upgrade">Mejorar</string>
+    <string name="booster_base_xp">Multip. EXP Base</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="booster_spawn_size">Aumentar Tamaño Inicial</string>
+    <string name="speed_none">N/A</string>
+    <string name="speed_slow">Lento (5/sec)</string>
+    <string name="speed_medium">Medio (10/sec)</string>
+    <string name="speed_fast">Rápido (20/sec)</string>
     <string name="speed_ultra">Ultra (30/sec)</string>
     <string name="speed_crazy">Crazy (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
@@ -264,6 +264,7 @@
     <string name="voidstone_gift_send">Regalo de Voidstone Enviado</string>
     <string name="skin_bought">Skin Comprada</string>
     <string name="booster_base_xp_bought">Base XP Upgrade</string>
+    <string name="transaction_achievement_reward">Achievement Reward</string>
     <string name="booster_autosplit_bought">Autosplit Upgrade</string>
     <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
     <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
@@ -278,7 +279,7 @@
     <string name="giveaway">Premio de Giveaway</string>
     <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
     <string name="admin_deduction_sent">Deducción (STAFF) Retirada</string>
-    <string name="verify_reward">Recompensa de Verificación (Servidor Discord)</string>
+    <string name="verify_reward">Recompensa de Verificación (Discord)</string>
     <string name="competitive_season_reward">Recompensa de la Temporada Competitiva</string>
     <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
@@ -324,7 +325,7 @@
      <string name="season_pass_tab_daily">DIARIO</string>
      <string name="season_pass_tab_weekly">SEMANAL</string>
      <string name="season_pass_tab_season">TEMPORADA</string>
-     <string name="season_pass_done">HECHO</string>
+     <string name="season_pass_done">COMPLETADA</string>
      <string name="season_pass_claim">RECLAMAR</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Nvl %1$d</string>
@@ -385,17 +386,17 @@
      <string name="season_task_win_knockout">Win knockout games</string>
      <string name="season_task_win_soccer">Win soccer games</string>
      <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Disparos</string>
+     <string name="season_task_split">Divídete</string>
+     <string name="season_task_shoot">Dispara masa</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
     <string name="not_logged_in">¡No has iniciado sesión!</string>
-    <string name="login">Iniciar Sesión</string>
+    <string name="login">Iniciar sesión</string>
     <string name="login_google">Iniciar sesión con Google</string>
     <string name="login_apple">Iniciar sesión con Apple</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
+    <string name="link_google">Vincular con Google</string>
+    <string name="link_apple">Vincular con Apple</string>
     <string name="link_success">Sign-in method linked!</string>
     <string name="link_already_linked">This sign-in method is already linked to your account.</string>
     <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
@@ -403,15 +404,15 @@
     <string name="link_stepup_failed">Verification failed. Please try again.</string>
     <string name="link_cancelled">Linking was cancelled.</string>
     <string name="link_failed">Could not link sign-in method. Please try again.</string>
-    <string name="logout">Cerrar Sesión</string>
+    <string name="logout">Cerrar sesión</string>
     <string name="logout_all_devices">Cerrar sesión en todos los dispositivos</string>
     <string name="change_name">Cambiar Nombre</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="no_youtube_link">No Enlazado</string>
-    <string name="no_tiktok_link">No Link</string>
-    <string name="created">Creada %s</string>
+    <string name="no_tiktok_link">No Enlazado</string>
+    <string name="created">Desde %s</string>
     <string name="last_seen">Últ. vez %s</string>
     <string name="save_profile_description">Guardar Descripción</string>
     <string name="profile_description_placeholder">Escribe una Descripción</string>
@@ -506,7 +507,7 @@
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Regalar Voidstones</string>
-    <string name="send_voidstones_to">Regalar %1$s Voidstones a ID: %2$d</string>
+    <string name="send_voidstones_to">Regalar Voidstones a %1$s (ID: %2$d)</string>
     <string name="send_voidstones_confirm">¿Seguro(a) que quieres Regalar %1$s Voidstones a %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">Ups, no puedes Enviarte Voidstones a ti mismo.</string>
     <string name="voidstone_gift_from">Recibiste %1$s Voidstones de (ID: %2$d)</string>
@@ -644,6 +645,8 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Tipo de Tabla</string>
     <string name="leaderboard_xp_description">Puntos de Experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el Juego.</string>
+    <string name="leaderboard_type_ap">AP</string>
+    <string name="leaderboard_ap_description">AP, short for Achievement Points. Obtain these special points by completing achievements! Higher tier achievements give more AP than others.</string>
     <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los Jugadores que hayan completado al menos 12 Partidas Competitivas.</string>
     <string name="leaderboard_rating">Clasificación</string>
     <string name="leaderboard_period_daily">Diario</string>
@@ -687,6 +690,9 @@
     <string name="stat_boosts">Comidos:</string>
     <string name="stat_teleports">Teletransportaciones:</string>
     <string name="stat_rewarded_ads_watched">Anuncios Vistos:</string>
+    <string name="stat_items_used">Items Used:</string>
+    <string name="stat_voidstones_gifted">Gifted:</string>
+    <string name="stat_opponents_exploded">Opponents Exploded:</string>
 
     <!-- Mail !-->
     <string name="mail">CORREOS</string>
@@ -802,12 +808,16 @@
     <string name="flags">Flags</string>
     <string name="skin_tab_particles">Particles</string>
     <string name="skin_tab_special">Especial</string>
-    <string name="level_skin_locked">Esta Skin se desbloquea en el Nivel %d</string>
+    <string name="level_skin_locked_dialog">You must be level %1$d to unlock this skin. You are currently level %2$d.</string>
+    <string name="skin_tab_achievement">Achievement</string>
+    <string name="achievement_skin_locked_dialog">You must reach %1$d Achievement Points to unlock this skin. You currently have %2$d.</string>
+    <string name="dismiss">Dismiss</string>
     <string name="level_lock">Nivel Bloqueado</string>
 
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
+    <string name="emotes">Emotes</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">Cerrar Chat</string>
     <string name="chat_message_hint">Escribe un Mensaje…</string>
@@ -854,7 +864,7 @@
     <string name="decay">Decadencia: %.2f/s</string>
     <string name="pieces">Blobs: %1d/%2d</string>
     <string name="merge">Unirse: %ss</string>
-    <string name="throw_item_button">Throw item</string>
+    <string name="throw_item_button">Soltar item</string>
     <string name="select_throw_item">Select throw item button</string>
     <string name="xp">EXP</string>
     <string name="level">Nivel</string>
@@ -867,9 +877,9 @@
     <string name="highest_rank">Rango más Alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
-    <string name="leaderboard">Récords</string>
+    <string name="leaderboard">Ranking</string>
     <string name="session_stats">Estadísticas de Sesión</string>
-    <string name="debug">Depuracion</string>
+    <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
 
 
@@ -914,7 +924,7 @@
 
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
-    <string name="no_blocked_players">Sin Jugadores Bloqueados</string>
+    <string name="no_blocked_players">Tu lista está sospechosamente vacía…</string>
     <string name="unblock_confirm_message">¿Seguro(a) que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
     <string name="block_player">Bloquear Jugador(a)</string>
     <string name="unblock_player">Desbloquear Jugador(a)</string>
@@ -1175,7 +1185,7 @@
     <string name="editing_message">Editando Mensaje</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Soporte</string>
-    <string name="support_intro">A continuación, todas las formas de contactar con soporte.</string>
+    <string name="support_intro">A continuación, formas de contactar con soporte.</string>
     <string name="copy">Copiar</string>
     <string name="open_link">Abrir</string>
     <string name="whatsapp_note">Solo chat (no llamadas o SMS)</string>
@@ -1190,17 +1200,129 @@
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
     <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
     <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
-    <string name="scored">scored!</string>
+    <string name="scored">anotó!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
     <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
-    <string name="save_preferences">Save preferences</string>
-    <string name="load_preferences">Load preferences</string>
-    <string name="preferences_saved">Preferences saved to %1$s</string>
-    <string name="preferences_loaded">Preferences loaded!</string>
+    <string name="save_preferences">Guardar preferencias</string>
+    <string name="load_preferences">Cargar preferencias</string>
+    <string name="preferences_saved">Preferencias guardadas en %1$s</string>
+    <string name="preferences_loaded">Preferencias cargadas!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
-    <string name="invalid_file">Invalid file</string>
-    <string name="unlocked">Unlocked:</string>
-    <string name="unlocked_competitive">Unlocked Competitive</string>
+    <string name="invalid_file">Archivo inválido</string>
+    <string name="unlocked">Desbloqueado:</string>
+    <string name="unlocked_competitive">Competitivo Desbloqueado</string>
+    <!-- Achievements -->
+    <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
+    <string name="achievement_tier_bronze">Bronze</string>
+    <string name="achievement_tier_silver">Silver</string>
+    <string name="achievement_tier_gold">Gold</string>
+    <string name="achievement_tier_platinum">Platinum</string>
+    <string name="achievement_tier_diamond">Diamond</string>
+    <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
+    <string name="achievement_next">Next:</string>
+    <string name="achievement_secret_title">Secret Achievement</string>
+    <string name="achievement_secret_description">???</string>
+    <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
+    <string name="ach_title_big">Big</string>
+    <string name="ach_title_huge">Huge</string>
+    <string name="ach_title_massive">Massive</string>
+    <string name="ach_title_gigantic">Gigantic</string>
+    <string name="ach_title_enormous">Enormous</string>
+    <string name="ach_desc_highest_size">Reach a total size of %1$s.</string>
+    <string name="ach_title_food_nibbler">Food Nibbler</string>
+    <string name="ach_title_food_taster">Food Taster</string>
+    <string name="ach_title_food_eater">Food Eater</string>
+    <string name="ach_title_food_gobbler">Food Gobbler</string>
+    <string name="ach_title_food_devourer">Food Devourer</string>
+    <string name="ach_desc_food_eaten">Eat %1$s Food.</string>
+    <string name="ach_title_first_steps">First Steps</string>
+    <string name="ach_title_apprentice">Apprentice</string>
+    <string name="ach_title_experienced">Experienced</string>
+    <string name="ach_title_professional">Professional</string>
+    <string name="ach_title_master">Master</string>
+    <string name="ach_desc_level">Reach XP Level %1$s.</string>
+    <string name="ach_title_hour_played">Hour Played</string>
+    <string name="ach_title_day_played">Day Played</string>
+    <string name="ach_title_week_played">Week Played</string>
+    <string name="ach_title_fortnight_played">Fortnight Played</string>
+    <string name="ach_title_month_played">Month Played</string>
+    <string name="ach_desc_time_played_one">Play for 1 hour.</string>
+    <string name="ach_desc_time_played">Play for %1$s hours.</string>
+    <string name="ach_title_acquainted">Acquainted</string>
+    <string name="ach_title_well_known">Well-known</string>
+    <string name="ach_title_popular">Popular</string>
+    <string name="ach_title_famous">Famous</string>
+    <string name="ach_title_celebrity">Celebrity</string>
+    <string name="ach_desc_friends">Have %1$s Friends.</string>
+    <string name="ach_title_wanderer">Wanderer</string>
+    <string name="ach_title_explorer">Explorer</string>
+    <string name="ach_title_adventurer">Adventurer</string>
+    <string name="ach_title_pioneer">Pioneer</string>
+    <string name="ach_title_conqueror">Conqueror</string>
+    <string name="ach_desc_adventure_stage">Clear Adventure Stage %1$s.</string>
+    <string name="ach_title_scorer">Scorer %1$s</string>
+    <string name="ach_desc_soccer_goals_one">Score 1 Goal in Soccer mode.</string>
+    <string name="ach_desc_soccer_goals">Score %1$s Goals in Soccer mode.</string>
+    <string name="ach_title_size_beginner">Size Beginner</string>
+    <string name="ach_title_size_millionaire">Size Millionaire</string>
+    <string name="ach_title_size_multimillionaire">Size Multimillionaire</string>
+    <string name="ach_title_size_ultramillionaire">Size Ultramillionaire</string>
+    <string name="ach_title_size_billionaire">Size Billionaire</string>
+    <string name="ach_desc_size_gained">Gain a total of %1$s Size.</string>
+    <string name="ach_title_lucky_find">Lucky Find</string>
+    <string name="ach_title_fortune_catcher">Fortune Catcher</string>
+    <string name="ach_title_rainbow_master">Rainbow Master</string>
+    <string name="ach_desc_rainbow_voidstones_one">Collect 1 Rainbow Voidstone.</string>
+    <string name="ach_desc_rainbow_voidstones">Collect %1$s Rainbow Voidstones.</string>
+    <string name="ach_title_wizard">Wizard %1$s</string>
+    <string name="ach_desc_items_used">Use %1$s Items.</string>
+    <string name="ach_title_infinite_power">Infinite Power!</string>
+    <string name="ach_desc_max_item_duration">Have an item effect active for the maximum allowed duration of 5 minutes.</string>
+    <string name="ach_title_mini">Mini</string>
+    <string name="ach_title_tiny">Tiny</string>
+    <string name="ach_title_microscopic">Microscopic</string>
+    <string name="ach_title_invisible">Invisible</string>
+    <string name="ach_title_nonexistent">Nonexistent</string>
+    <string name="ach_desc_min_size">Become smaller than %1$s size.</string>
+    <string name="ach_desc_min_size_limit">Reach the minimum allowed size of %1$s.</string>
+    <string name="ach_title_close_call">Close Call</string>
+    <string name="ach_desc_tiebreaker">Survive a Tiebreaker in Knockout mode.</string>
+    <string name="ach_title_challenger">Challenger</string>
+    <string name="ach_title_battler">Battler</string>
+    <string name="ach_title_warrior">Warrior</string>
+    <string name="ach_title_gladiator">Gladiator</string>
+    <string name="ach_title_champion">Champion</string>
+    <string name="ach_desc_competitive_rank">Reach Rank %1$s in Competitive mode.</string>
+    <string name="ach_title_accept_cookies">Accept Cookies</string>
+    <string name="ach_title_pizza_party">Pizza Party</string>
+    <string name="ach_title_tutti_frutti">Tutti-frutti</string>
+    <string name="ach_desc_cookie_blobs">Eat %1$s cookie blobs.</string>
+    <string name="ach_desc_pizza_blobs">Eat %1$s pizza blobs.</string>
+    <string name="ach_desc_fruit_blobs">Eat %1$s fruit blobs.</string>
+    <string name="ach_title_daily_streak">Daily Streak</string>
+    <string name="ach_title_weekly_streak">Weekly Streak</string>
+    <string name="ach_title_monthly_streak">Monthly Streak</string>
+    <string name="ach_title_seasonal_streak">Seasonal Streak</string>
+    <string name="ach_title_yearly_streak">Yearly Streak</string>
+    <string name="ach_desc_streak">Play at least once a day for %1$s days straight.</string>
+    <string name="ach_title_encouragement">Encouragement</string>
+    <string name="ach_title_helping_hand">Helping Hand</string>
+    <string name="ach_title_generous_buddy">Generous Buddy</string>
+    <string name="ach_title_master_donator">Master Donator</string>
+    <string name="ach_title_philanthropist">Philanthropist</string>
+    <string name="ach_desc_gift_voidstones">Gift a total of %1$s Voidstones.</string>
+    <string name="ach_title_map_control">Map Control</string>
+    <string name="ach_desc_map_control">Cover the entire playing field.</string>
+    <string name="ach_title_hole_attack">Hole Attack %1$s</string>
+    <string name="ach_desc_hole_attack">Explode %1$s players by shooting a hole at them.</string>
+    <string name="ach_title_bully">Bully</string>
+    <string name="ach_desc_bully">Keep a small player trapped in a corner for over 10 seconds.</string>
+    <string name="ach_title_viewer">Viewer</string>
+    <string name="ach_title_film_fan">Film Fan</string>
+    <string name="ach_title_binge_watcher">Binge Watcher</string>
+    <string name="ach_title_movie_star">Movie Star</string>
+    <string name="ach_title_cinephile">Cinephile</string>
+    <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
 </resources>
