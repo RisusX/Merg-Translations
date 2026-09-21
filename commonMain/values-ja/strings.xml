@@ -119,8 +119,8 @@
     <string name="increase_bots">ボット量を上げる</string>
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
-    <string name="force_split_on_blob_size">Force split on blob size</string>
-    <string name="merge_button">Merge Button</string>
+    <string name="force_split_on_blob_size">ブロブのサイズで強制スプリット</string>
+    <string name="merge_button">マージボタンを有効</string>
     <string name="no_holes">ホールを無効</string>
     <string name="circle_map">丸いマップ</string>
     <string name="relax">リラックス</string>
@@ -363,33 +363,33 @@
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">ドットを食べよう</string>
-     <string name="season_task_voidstone_any_eaten">ボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_regular_eaten">普通ボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_bronze_eaten">ブロンズボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_silver_eaten">シルバーボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_gold_eaten">ゴールドボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_rainbow_eaten">レインボーボイドストーンを集めよう</string>
-     <string name="season_task_food_and_voidstone_eaten">ドットとボイドストーンを集めよう</string>
-     <string name="season_task_bots_eaten">ボットを食べよう</string>
-     <string name="season_task_players_eaten">リアルプレイヤーを食べよう</string>
-     <string name="season_task_hole_any_powerup">ホールを集めよう</string>
-     <string name="season_task_hole_blue_powerup">ブルーホールを集めよう</string>
-     <string name="season_task_hole_purple_powerup">パープルホールを集めよう</string>
-     <string name="season_task_hole_gold_powerup">ゴールドホールを集めよう</string>
-     <string name="season_task_hole_any_punishment">ホールに衝突しよう</string>
-     <string name="season_task_hole_black_punishment">ブラックホールに衝突しよう</string>
-     <string name="season_task_hole_blue_punishment">ブルーホールに衝突しよう</string>
-     <string name="season_task_hole_purple_punishment">パープルホールに衝突しよう</string>
-     <string name="season_task_hole_gold_punishment">ゴールドホールに衝突しよう</string>
-     <string name="season_task_win_competitive">ランクバトルのマッチを勝とう</string>
-     <string name="season_task_win_survival">サバイバルのマッチを勝とう</string>
-     <string name="season_task_win_team_survival">チームサバイバルのマッチを勝とう</string>
-     <string name="season_task_win_knockout">ノックアウトのマッチを勝とう</string>
-     <string name="season_task_win_soccer">サッカーのマッチを勝とう</string>
-     <string name="season_task_soccer_goal_scored">サッカーモードでゴールを決めよう</string>
-     <string name="season_task_split">スプリットしよう</string>
-     <string name="season_task_shoot">イジェクトしよう</string>
+     <string name="season_task_food_eaten">ドットを食べる</string>
+     <string name="season_task_voidstone_any_eaten">ボイドストーンを集める</string>
+     <string name="season_task_voidstone_regular_eaten">普通ボイドストーンを集める</string>
+     <string name="season_task_voidstone_bronze_eaten">ブロンズボイドストーンを集める</string>
+     <string name="season_task_voidstone_silver_eaten">シルバーボイドストーンを集める</string>
+     <string name="season_task_voidstone_gold_eaten">ゴールドボイドストーンを集める</string>
+     <string name="season_task_voidstone_rainbow_eaten">レインボーボイドストーンを集める</string>
+     <string name="season_task_food_and_voidstone_eaten">ドットとボイドストーンを集める</string>
+     <string name="season_task_bots_eaten">ボットを食べる</string>
+     <string name="season_task_players_eaten">リアルプレイヤーを食べる</string>
+     <string name="season_task_hole_any_powerup">ホールを集める</string>
+     <string name="season_task_hole_blue_powerup">ブルーホールを集める</string>
+     <string name="season_task_hole_purple_powerup">パープルホールを集める</string>
+     <string name="season_task_hole_gold_powerup">ゴールドホールを集める</string>
+     <string name="season_task_hole_any_punishment">ホールに衝突する</string>
+     <string name="season_task_hole_black_punishment">ブラックホールに衝突する</string>
+     <string name="season_task_hole_blue_punishment">ブルーホールに衝突する</string>
+     <string name="season_task_hole_purple_punishment">パープルホールに衝突する</string>
+     <string name="season_task_hole_gold_punishment">ゴールドホールに衝突する</string>
+     <string name="season_task_win_competitive">ランクバトルのマッチを勝つ</string>
+     <string name="season_task_win_survival">サバイバルのマッチを勝つ</string>
+     <string name="season_task_win_team_survival">チームサバイバルのマッチを勝つ</string>
+     <string name="season_task_win_knockout">ノックアウトのマッチを勝つ</string>
+     <string name="season_task_win_soccer">サッカーのマッチを勝つ</string>
+     <string name="season_task_soccer_goal_scored">サッカーモードでゴールを決める</string>
+     <string name="season_task_split">スプリットする</string>
+     <string name="season_task_shoot">イジェクトする</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -677,7 +677,7 @@
     <string name="stat_bronze_value">ブロンズ (値):</string>
     <string name="stat_bronze_count">ブロンズ (数):</string>
     <string name="stat_bonus">ボーナス:</string>
-    <string name="season_currency">Season Currency</string>
+    <string name="season_currency">シーズン通貨</string>
     <string name="stat_food_eaten">食べたドットの数:</string>
     <string name="stat_players_eaten">食べたプレイヤーの数:</string>
     <string name="stat_bots_eaten">食べたボットの数:</string>
@@ -693,9 +693,9 @@
     <string name="stat_boosts">ブースト回数:</string>
     <string name="stat_teleports">テレポート回数:</string>
     <string name="stat_rewarded_ads_watched">視聴したリワード広告の数:</string>
-    <string name="stat_items_used">Items Used:</string>
-    <string name="stat_voidstones_gifted">Gifted:</string>
-    <string name="stat_opponents_exploded">Opponents Exploded:</string>
+    <string name="stat_items_used">使ったアイテムの数：</string>
+    <string name="stat_voidstones_gifted">贈った量：</string>
+    <string name="stat_opponents_exploded">ホールで攻撃した相手の数：</string>
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
@@ -821,7 +821,7 @@
     <!-- Chat !-->
     <string name="chat">チャット</string>
     <string name="emotes">エモート</string>
-    <string name="room_commands">Type !help for a list of available commands</string>
+    <string name="room_commands">「!help」を入力して使用可能なコマンドを表示</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
@@ -1095,9 +1095,9 @@
     <string name="empty">空</string>
     <string name="online">オンライン</string>
     <string name="offline">オフライン</string>
-    <string name="status_dnd">Do Not Disturb</string>
-    <string name="status_invisible">Invisible</string>
-    <string name="status_picker_label">Status</string>
+    <string name="status_dnd">DND</string>
+    <string name="status_invisible">隠し</string>
+    <string name="status_picker_label">ステータス</string>
     <string name="name">名前</string>
     <string name="owner">オーナー</string>
     <string name="kick">キック</string>
@@ -1201,7 +1201,7 @@
     <string name="support_discord_channel">サポートチケット</string>
     <string name="additional_settings">その他の設定</string>
     <string name="desc_quick_merge">マージ時間なしゲームになります。</string>
-    <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
+    <string name="desc_force_split_on_blob_size">任意のブロブが設定サイズに達すると、ブロブの中央から、発射の勢いなく自動で半分にスプリットします。最大スプリット数に達しているブロブは、スプリットブロブはそのサイズを上限とします。アドベンチャーモードではこの設定は無効です。</string>
     <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
     <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
@@ -1332,8 +1332,8 @@
     <string name="ach_title_movie_star">映画スター</string>
     <string name="ach_title_cinephile">映画好き</string>
     <string name="ach_desc_rewarded_ads">リワード広告を%1$s件視聴する。</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
-    <string name="net_switched_back_to_udp">Switched back to UDP.</string>
-    <string name="options_experimental">Experimental</string>
-    <string name="options_force_websocket">Force gameplay over Websocket</string>
+    <string name="net_switched_to_websocket">!! UDPはブロックされ、WebSocketに切り替えました。LATが大きくなる可能性があります。UDP ポート 9807 がブロックされていないことを確認するには、ネットワークのファイアウォールルールをチェックしてください。ウェブ版でプレイしている場合は、このメッセージを無視して構いません。</string>
+    <string name="net_switched_back_to_udp">UDPに戻りました。</string>
+    <string name="options_experimental">実験的</string>
+    <string name="options_force_websocket">WebSocket経由で強制プレイ</string>
 </resources>
