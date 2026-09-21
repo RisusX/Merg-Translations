@@ -662,9 +662,9 @@
 
     <!-- Statistics !-->
     <string name="all">Tudo</string>
-    <string name="stat_highest_size">Maior Tamanho:</string>
-    <string name="stat_size_gained">Tamanho Obtido:</string>
-    <string name="stat_size_lost">Tamanho Perdido:</string>
+    <string name="stat_highest_size">Maior tamanho:</string>
+    <string name="stat_size_gained">Tamanho obtido:</string>
+    <string name="stat_size_lost">Tamanho perdido:</string>
     <string name="stat_total">Total:</string>
     <string name="stat_regular_value">Regular (Valor):</string>
     <string name="stat_regular_count">Regular (Contagem):</string>
@@ -676,26 +676,26 @@
     <string name="stat_silver_count">Prata (Contagem):</string>
     <string name="stat_bronze_value">Bronze (Valor):</string>
     <string name="stat_bronze_count">Bronze (Contagem):</string>
-    <string name="stat_bonus">Bônus:</string>
-    <string name="season_currency">Moeda da Temporada</string>
-    <string name="stat_food_eaten">Massa Absorvida:</string>
-    <string name="stat_players_eaten">Jogadores Absorvidos:</string>
-    <string name="stat_bots_eaten">Bots Absorvidos:</string>
-    <string name="stat_blobs_eaten">Blobs Absorvidos:</string>
-    <string name="stat_games_won">Jogos Ganhos:</string>
-    <string name="stat_longest_session">Sessão Mais Longa:</string>
-    <string name="stat_time_played">Tempo de Jogo:</string>
-    <string name="stat_stages_cleared">Fases Concluídas:</string>
-    <string name="stat_highest_stage">Maior Fase:</string>
-    <string name="stat_adventures_completed">Aventuras Concluídas:</string>
+    <string name="stat_bonus">bônus:</string>
+    <string name="season_currency">Moedas da temporada:</string>
+    <string name="stat_food_eaten">Massa absorvida:</string>
+    <string name="stat_players_eaten">Jogadores absorvidos:</string>
+    <string name="stat_bots_eaten">Bots absorvidos:</string>
+    <string name="stat_blobs_eaten">Blobs absorvidos:</string>
+    <string name="stat_games_won">Jogos ganhos:</string>
+    <string name="stat_longest_session">Sessão mais longa:</string>
+    <string name="stat_time_played">Tempo de jogo:</string>
+    <string name="stat_stages_cleared">Fases concluídas:</string>
+    <string name="stat_highest_stage">Maior fase:</string>
+    <string name="stat_adventures_completed">Aventuras concluídas:</string>
     <string name="stat_goals_scored">Gols:</string>
     <string name="stat_collisions">Colisões:</string>
     <string name="stat_boosts">Incrementos:</string>
     <string name="stat_teleports">Teletransportes:</string>
     <string name="stat_rewarded_ads_watched">Anúncios para recompensa assistidos:</string>
-    <string name="stat_items_used">Items Used:</string>
-    <string name="stat_voidstones_gifted">Gifted:</string>
-    <string name="stat_opponents_exploded">Opponents Exploded:</string>
+    <string name="stat_items_used">Itens usados:</string>
+    <string name="stat_voidstones_gifted">Presenteados:</string>
+    <string name="stat_opponents_exploded">Adversários atingidos:</string>
 
     <!-- Mail !-->
     <string name="mail">E-mail</string>
@@ -1201,7 +1201,7 @@
     <string name="support_discord_channel">suporte por ticket</string>
     <string name="additional_settings">CONFIGURAÇÕES ADICIONAIS</string>
     <string name="desc_quick_merge">Remove o tempo para se juntar ao dividir-se.</string>
-    <string name="desc_force_split_on_blob_size">Qualquer blob que atingir o tamanho definido se dividirá pela metade automaticamente, do seu meio e sem impulso inicial. Quando um blob já estiver dividido ao número máximo de divisões, cada parte será limitado àquele tamanho. Não é possível usar esse recurso no m1odo Aventura.</string>
+    <string name="desc_force_split_on_blob_size">Qualquer blob que atingir o tamanho definido se dividirá pela metade automaticamente, do seu meio e sem impulso inicial. Quando um blob já estiver dividido ao número máximo de divisões, cada parte será limitada àquele tamanho. Não é possível usar esse recurso no modo Aventura.</string>
     <string name="desc_relax">Assim como no modo Aventura, os jogadores não poderão absorver o último blob um dos outros (exceto bots).</string>
     <string name="desc_gold_holes">Os vírus azuis têm uma chance de %1$s%% de aparecerem como dourados e dão 4 vezes mais massa.</string>
     <string name="desc_teleport_holes">Se desativados, aparecerão como vírus azuis.</string>
