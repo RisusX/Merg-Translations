@@ -363,33 +363,33 @@
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">ドットを食べよう</string>
-     <string name="season_task_voidstone_any_eaten">ボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_regular_eaten">普通ボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_bronze_eaten">ブロンズボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_silver_eaten">シルバーボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_gold_eaten">ゴールドボイドストーンを集めよう</string>
-     <string name="season_task_voidstone_rainbow_eaten">レインボーボイドストーンを集めよう</string>
-     <string name="season_task_food_and_voidstone_eaten">ドットとボイドストーンを集めよう</string>
-     <string name="season_task_bots_eaten">ボットを食べよう</string>
-     <string name="season_task_players_eaten">リアルプレイヤーを食べよう</string>
-     <string name="season_task_hole_any_powerup">ホールを集めよう</string>
-     <string name="season_task_hole_blue_powerup">ブルーホールを集めよう</string>
-     <string name="season_task_hole_purple_powerup">パープルホールを集めよう</string>
-     <string name="season_task_hole_gold_powerup">ゴールドホールを集めよう</string>
-     <string name="season_task_hole_any_punishment">ホールに衝突しよう</string>
-     <string name="season_task_hole_black_punishment">ブラックホールに衝突しよう</string>
-     <string name="season_task_hole_blue_punishment">ブルーホールに衝突しよう</string>
-     <string name="season_task_hole_purple_punishment">パープルホールに衝突しよう</string>
-     <string name="season_task_hole_gold_punishment">ゴールドホールに衝突しよう</string>
-     <string name="season_task_win_competitive">ランクバトルのマッチを勝とう</string>
-     <string name="season_task_win_survival">サバイバルのマッチを勝とう</string>
-     <string name="season_task_win_team_survival">チームサバイバルのマッチを勝とう</string>
-     <string name="season_task_win_knockout">ノックアウトのマッチを勝とう</string>
-     <string name="season_task_win_soccer">サッカーのマッチを勝とう</string>
-     <string name="season_task_soccer_goal_scored">サッカーモードでゴールを決めよう</string>
-     <string name="season_task_split">スプリットしよう</string>
-     <string name="season_task_shoot">イジェクトしよう</string>
+     <string name="season_task_food_eaten">ドットを食べる</string>
+     <string name="season_task_voidstone_any_eaten">ボイドストーンを集める</string>
+     <string name="season_task_voidstone_regular_eaten">普通ボイドストーンを集める</string>
+     <string name="season_task_voidstone_bronze_eaten">ブロンズボイドストーンを集める</string>
+     <string name="season_task_voidstone_silver_eaten">シルバーボイドストーンを集める</string>
+     <string name="season_task_voidstone_gold_eaten">ゴールドボイドストーンを集める</string>
+     <string name="season_task_voidstone_rainbow_eaten">レインボーボイドストーンを集める</string>
+     <string name="season_task_food_and_voidstone_eaten">ドットとボイドストーンを集める</string>
+     <string name="season_task_bots_eaten">ボットを食べる</string>
+     <string name="season_task_players_eaten">リアルプレイヤーを食べる</string>
+     <string name="season_task_hole_any_powerup">ホールを集める</string>
+     <string name="season_task_hole_blue_powerup">ブルーホールを集める</string>
+     <string name="season_task_hole_purple_powerup">パープルホールを集める</string>
+     <string name="season_task_hole_gold_powerup">ゴールドホールを集める</string>
+     <string name="season_task_hole_any_punishment">ホールに衝突する</string>
+     <string name="season_task_hole_black_punishment">ブラックホールに衝突する</string>
+     <string name="season_task_hole_blue_punishment">ブルーホールに衝突する</string>
+     <string name="season_task_hole_purple_punishment">パープルホールに衝突する</string>
+     <string name="season_task_hole_gold_punishment">ゴールドホールに衝突する</string>
+     <string name="season_task_win_competitive">ランクバトルのマッチを勝つ</string>
+     <string name="season_task_win_survival">サバイバルのマッチを勝つ</string>
+     <string name="season_task_win_team_survival">チームサバイバルのマッチを勝つ</string>
+     <string name="season_task_win_knockout">ノックアウトのマッチを勝つ</string>
+     <string name="season_task_win_soccer">サッカーのマッチを勝つ</string>
+     <string name="season_task_soccer_goal_scored">サッカーモードでゴールを決める</string>
+     <string name="season_task_split">スプリットする</string>
+     <string name="season_task_shoot">イジェクトする</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -693,9 +693,9 @@
     <string name="stat_boosts">ブースト回数:</string>
     <string name="stat_teleports">テレポート回数:</string>
     <string name="stat_rewarded_ads_watched">視聴したリワード広告の数:</string>
-    <string name="stat_items_used">Items Used:</string>
-    <string name="stat_voidstones_gifted">Gifted:</string>
-    <string name="stat_opponents_exploded">Opponents Exploded:</string>
+    <string name="stat_items_used">使ったアイテムの数：</string>
+    <string name="stat_voidstones_gifted">贈った量：</string>
+    <string name="stat_opponents_exploded">ホールで攻撃した相手の数：</string>
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
