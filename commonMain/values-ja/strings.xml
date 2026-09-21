@@ -1201,7 +1201,7 @@
     <string name="support_discord_channel">サポートチケット</string>
     <string name="additional_settings">その他の設定</string>
     <string name="desc_quick_merge">マージ時間なしゲームになります。</string>
-    <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
+    <string name="desc_force_split_on_blob_size">任意のブロブが設定サイズに達すると、ブロブの中央から、発射の勢いなく自動で半分にスプリットします。最大スプリット数に達しているブロブは、スプリットブロブはそのサイズを上限とします。アドベンチャーモードではこの設定は無効です。</string>
     <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
     <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
