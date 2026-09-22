@@ -1004,7 +1004,7 @@
     <string name="report_banner_failed">Afiş şikayet edilemedi</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Kesinlikle Yasaklanan İçerikler:\n\n- NSFW / Cinsel içerik\n- Aşırı şiddet / Vahşet\n- Silahlar\n- Nefret sembolleri\n- Nefret söylemi / Ayrımcılık\n- Uyuşturucu maddeler\n- Şok edici / İğrenç içerikler\n- Telif hakkı içeren karakterler/logolar\n- Alkol/tütün referansları\n- Korkutucu/ürpertici görseller</string>
+    <string name="custom_banner_rules">Kesinlikle Yasaklanan İçerikler:\n\n- NSFW / Cinsel içerik\n- Aşırı şiddet / Vahşet\n- Silahlar\n- Nefret sembolleri\n- Nefret söylemi / Ayrımcılık\n- Uyuşturucu maddeler\n- Şok edici / İğrenç içerikler\n- Telif hakkıyla korunan karakterler/logolar\n- Alkol/tütün referansları\n- Korkutucu/ürpertici görseller</string>
     <string name="custom_banner_upload">Yükle</string>
     <string name="custom_banner_replace">Değiştir</string>
     <string name="custom_banner_deselect">Seçimi Kaldır</string>
