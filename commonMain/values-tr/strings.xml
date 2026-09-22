@@ -1016,9 +1016,9 @@
     <string name="custom_banner_upload_failed">Afiş yüklenemedi</string>
     <string name="custom_banner_read_error">Afiş okunamadı</string>
     <string name="custom_banner_invalid_format">Dosya bir görsel olmalıdır</string>
-    <string name="custom_banner_error_size">%1$d KB boyutundaki afişin çok büyük (maksimum %2$d KB)</string>
-    <string name="custom_banner_error_dimensions">%1$dx%2$d boyutundaki afişin çok büyük (maksimum %3$dx%4$d piksel)</string>
-    <string name="custom_banner_error_both">%1$d KB / %3$dx%4$d boyutundaki afişin çok büyük (maksimum %2$d KB / %5$dx%6$d piksel)</string>
+    <string name="custom_banner_error_size">%1$d KB boyutundaki afiş çok büyük (maksimum %2$d KB)</string>
+    <string name="custom_banner_error_dimensions">%1$dx%2$d boyutundaki afiş çok büyük (maksimum %3$dx%4$d piksel)</string>
+    <string name="custom_banner_error_both">%1$d KB / %3$dx%4$d boyutundaki afiş çok büyük (maksimum %2$d KB / %5$dx%6$d piksel)</string>
     <string name="custom_banner_compress_title">Afiş Çok Büyük - Sıkıştırılsın mı?</string>
     <string name="custom_banner_compress_accept">Sıkıştırılmışı Kullan</string>
     <string name="custom_banner_compress_failed">Afiş boyut sınırına uyacak şekilde sıkıştırılamadı</string>
